@@ -47,6 +47,7 @@ tepat dibawah tag pembuka php (<?php) JANGAN LUPA GANTI wp-dev.vercel.app dengan
 DEMO 😁:
 - pantheon subdomain: https://dev-tirinfo-wp.pantheonsite.io/
 - varcel Reverse Proxy: https://wp-dev.vercel.app/
+- selanjutkan tinggal di arahkan domain tld kamu ke nameserver vercel
 
 
 
