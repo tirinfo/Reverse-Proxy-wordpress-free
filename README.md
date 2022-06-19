@@ -20,11 +20,11 @@ define('WP_SITEURL', 'https://'.PROXY_DOMAIN);
 # Reverse-Proxy-wordpress-free
 Hal-hal yang dibutuhkan:
 - WP Hosting:
- -- [FREE] pantheon.io — ga bisa costum domain
+ - [FREE] pantheon.io — ga bisa costum domain
 
 - Reverse Proxy
- -- [FREE] Heroku — butuh debit/credit card untuk costum domain
- -- [FREE] Vercel — ga butuh debit/credit card untuk costum domain
+ - [FREE] Heroku — butuh debit/credit card untuk costum domain
+ - [FREE] Vercel — ga butuh debit/credit card untuk costum domain
 
 Step:
 0. pastikan sudah login ke akun heroku/varcel/cloudflare pages & pantheon kamu.
