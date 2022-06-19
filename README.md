@@ -1,4 +1,4 @@
-# Vercel Reverse Proxy
+# Reverse Proxy
 [![Deploy with Vercel](https://vercel.com/button)]
 
 
