@@ -5,6 +5,7 @@ Hal-hal yang dibutuhkan:
 - Reverse Proxy
  -- [FREE] Heroku — butuh debit/credit card untuk costum domain 🙃
  -- [FREE] Vercel — ga butuh debit/credit card untuk costum domain 😉
+ -- [FREE] cloudflare pages — ga butuh debit/credit card untuk costum domain 😉
 Step:
 0. pastikan sudah login ke akun heroku/varcel & pantheon kamu.
 1. Silahkan buat wordpress baru pada pantheon.io atau kalau sudah punya web sebelumnya, silahkan migrasi ke pantheon. ada plugin migrasi nya kok, cek https://pantheon.io/docs/migrate/
